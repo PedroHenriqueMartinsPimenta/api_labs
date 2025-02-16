@@ -21,7 +21,6 @@ var labs_block = []
 app.use(cors(
     {
         "origin": "*",
-        "methods": "GET,PUT,POST,DELETE",
     }
 ));
 
